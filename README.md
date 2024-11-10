@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning macro-economics, and looking to apply ML techniques in macro-econ. \n
+🌱 I’m currently learning macro-economics, and looking to apply ML techniques in macro-econ. 
+
 📫 How to reach me: stai4@jhu.edu
